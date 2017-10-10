@@ -75,6 +75,4 @@ void ProcessEntity(struct dirent* entity)
 void ProcessFile(std::string file)
 {
     std::cout << "Process file     : " << fileToOpen.c_str() << std::endl;
-
-    //if you want to do something with the file add your code here
 }
