@@ -1,2 +1,2 @@
 # -.mp3-finder
-It is basically a Linux program and used to search directories
+This is a simple mp3finder program that lists .mp3 files in directories and sub-directories. The program uses a recursive approach.
